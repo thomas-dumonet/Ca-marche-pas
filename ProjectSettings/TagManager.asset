@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Limits
+  - Hand
+  - Limits_02
+  - Interactive_Object
+  - Clavier
   layers:
   - Default
   - TransparentFX
@@ -13,9 +18,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Limits
+  - Interactive_Object
+  - Keyboard
   - 
   - 
   - 
